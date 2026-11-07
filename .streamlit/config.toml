@@ -1,0 +1,6 @@
+# Streamlit settings for this app.
+[theme]
+primaryColor = "#e50914"   # buttons and highlights
+
+[browser]
+gatherUsageStats = false

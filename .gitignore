@@ -1,0 +1,16 @@
+# Your secret API key - never share or upload this
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Downloaded dataset and generated files (they can be re-created)
+data/*.csv
+data/*.zip
+data/README.txt
+models/*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
